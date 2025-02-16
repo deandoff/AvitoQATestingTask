@@ -16,7 +16,7 @@
 3. Клонировать данный репозиторий:
    ```bash
    git clone https://github.com/deandoff/AvitoQATestingTask.git
-   cd AvitoQATestingTask/src
+   cd AvitoQATestingTask
 4. Собрать проект с помощью Maven
     ```bash
     mvn clean install
